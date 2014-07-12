@@ -1,6 +1,7 @@
 {
     "name": "163 open course downloader",
     "version": "1.0",
+    "author" : "xesam",
     "manifest_version": 2,
     "description": "163 open course downloader",
     "offline_enabled": true,
